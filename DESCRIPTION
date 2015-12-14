@@ -1,0 +1,13 @@
+Package: picardtoolsutils
+Title: Load and Analyze Outputs of Picard Tools
+Version: 0.0.0.9000
+Authors@R: person("Fong Chun", "Chan", email = "fongchunchan@gmail.com", role = c("aut", "cre"))
+Description: This package provides functions to load and analyze the outputs 
+  of Picard Tools.
+Depends: R (>= 3.2.2)
+Imports:
+	readr (>= 0.2.2)
+LazyData: true
+URL: https://github.com/tinyheero/picardtoolsutils
+BugReports: https://github.com/tinyheero/picardtoolsutils/issues
+License: MIT + file LICENSE
